@@ -93,3 +93,8 @@ nav img {
   cursor: pointer;
   color: white;
 }
+.button:hover {
+  border: 1px solid rgba(153, 0, 0, 0.7);
+  background: rgba(153, 0, 0, 0.7);
+  transition: 1s;
+}
